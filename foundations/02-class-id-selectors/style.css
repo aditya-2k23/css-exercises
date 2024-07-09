@@ -1,0 +1,5 @@
+body :nth-child(odd) {
+  background-color: pink;
+  font-family: Verdana, DejaVuSans, sans-serif;
+}
+
